@@ -37,6 +37,9 @@ API: Google Map Static API
 
 
 # 결과 해석 
+# 서울시 업종별 점포수를 구별로 시각화 with google maps platform
+서울시 전역의 상권 데이터를 분석한 결과, 강남구, 서초구, 송파구 등에서 **점포 수가 특히 많은 것으로 나타남.
+이를 Google Maps를 활용해 시각적으로 표현함으로써, 지역별 상권 밀집도를 한눈에 파악할 수 있도록 활용
 <img width="953" height="766" alt="스크린샷 2025-07-17 100806" src="https://github.com/user-attachments/assets/1a0894d7-d092-4760-bd0e-13cc804cdd6b" />
 
 역삼1동 지역의 카페 점포 수가 1년간 126곳 폐업, 159곳 신규 개업됨
