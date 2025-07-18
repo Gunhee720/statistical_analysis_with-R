@@ -27,6 +27,9 @@
 - `cars_pops.xlsx`: 지역별 자동차 등록 대수 및 주민등록 인구 (2003~2022년)
 - `2021_pops_sido.csv`: 2021년 행정구역별 주민등록 인구
 
+  <img width="1309" height="523" alt="image" src="https://github.com/user-attachments/assets/087bcc7d-063d-4f77-8809-e3439e06782f" />
+
+
 ---
 
 ## 🔧 주요 기술 스택
@@ -61,9 +64,17 @@
 ### 📊 3. 시각화
 
 - 상해 정도별 피해자 수 **상자 그림**
+
+  <img width="436" height="385" alt="image" src="https://github.com/user-attachments/assets/f0c82a69-2d9b-4be3-9807-a82ae87f80f0" />
+
 - 사고 유형별 피해 정도 **Facet Boxplot**
+
+  <img width="634" height="339" alt="image" src="https://github.com/user-attachments/assets/9c66b66e-415e-4375-9854-171af2fee9e3" />
+
 - 시도별 사망자 수 **막대그래프**
-- 시도별 인구 대비 사망자 수 **산점도 (log scale + 라벨)**
+
+  <img width="554" height="333" alt="image" src="https://github.com/user-attachments/assets/1f23a550-0efe-40e7-acb9-48ad309c4e58" />
+
 
 예시 코드:
 
