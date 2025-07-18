@@ -44,18 +44,18 @@ API: Google Map Static API
 
 # 2024년 3월 ~ 2025년 3월 사이, 점포 수 변화가 가장 큰 TOP 10 행정동
 
-1년간의 상권 데이터를 비교한 결과, 신사동, 가산동, 반포3동이 가장 큰 점포 수 변화를 보였고 , 이는 해당 지역의 상권 재편 또는 트렌드 변화 가능성을 시사
+### 1년간의 상권 데이터를 비교한 결과, 신사동, 가산동, 반포3동이 가장 큰 점포 수 변화를 보였고 , 이는 해당 지역의 상권 재편 또는 트렌드 변화 가능성을 시사
 
 <img width="1243" height="801" alt="스크린샷 2025-07-17 104610" src="https://github.com/user-attachments/assets/848b34c3-da21-4ec4-b5c7-423f52d6bc91" />
 
 # 역삼동 업종별 점포 with google maps paltform
 <img width="925" height="771" alt="스크린샷 2025-07-17 112110" src="https://github.com/user-attachments/assets/c37f4b55-388a-4d63-8fc6-940db8ae7107" />
 
-역삼1동의 전체 업종 데이터를 분석한 결과, 업종 수가 매우 다양하여 시각적 복잡성이 높았음 따라서 점포 수 기준 상위 3개 업종만을 추출해 보다 명확하게 상권 분포를 시각화
+### 역삼1동의 전체 업종 데이터를 분석한 결과, 업종 수가 매우 다양하여 시각적 복잡성이 높았음 따라서 점포 수 기준 상위 3개 업종만을 추출해 보다 명확하게 상권 분포를 시각화
 
 <img width="947" height="817" alt="스크린샷 2025-07-17 112203" src="https://github.com/user-attachments/assets/a412f270-be26-4c16-b568-65591dc598df" />
 
-### ☕ 역삼1동 카페 상권의 1년간 변화 현황 
+# ☕ 역삼1동 카페 상권의 1년간 변화 현황 
 
 <img width="848" height="827" alt="스크린샷 2025-07-17 114613" src="https://github.com/user-attachments/assets/9cbbf27d-29a4-46c6-a5cd-7fab2d69bd8a" />
 
